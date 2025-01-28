@@ -7,7 +7,7 @@ import project_icon from './project-icon.png';
 import project_icon_dark from './project-icon-dark.png';
 import swift from './swift-og.png';
 import python from './python-logo.png';
-import chatgpt from './ChatGPT-Logo.png';
+import chatgpt from './gpt-logo.png';
 import java from './java-logo.png';
 import git from './git.png';
 import right_arrow_white from './right-arrow-white.png';
