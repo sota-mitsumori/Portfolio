@@ -9,7 +9,7 @@ const Services = () => {
         <h2 className='text-center text-5xl font-Ovo'>My Interests</h2>
 
         <p className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
-            I am a Computer Science student in Japan, seeking to learn and become a full-stack engineer.
+            I am a Computer Science student in Japan, seeking to learn and become a fullstack engineer.
         </p>
 
     <div className='grid grid-cols-auto gap-6 my-10'>

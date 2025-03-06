@@ -75,14 +75,20 @@ export const assets = {
 export const workData = [
     {
         title: 'ふだながし/ Fudanagashi',
-        description: 'IOS App',
+        description: 'iOS App',
         bgImage: '/fudanagashi_icon.png',
         url: 'https://apps.apple.com/us/app/fudanagashi/id6737144293',
     },
     {
+        title: 'Penny Keep',
+        description: 'iOS App',
+        bgImage: '/PennyKeep.png',
+        url: 'https://penny-keep.vercel.app/',
+    },
+    {
         title: 'MyJapan',
         description: 'Web App',
-        bgImage: 'MyJapan.png',
+        bgImage: '/MyJapan.png',
         url: 'https://MyJapan.onrender.com',
     },
     {
@@ -91,19 +97,14 @@ export const workData = [
         bgImage: '/recurrence.png',
         url: 'https://recurrence-relation.vercel.app',
     },
-    {
-        title: 'Train Arrival Status',
-        description: 'Web App',
-        bgImage: '/london_underground.png',
-        url: 'https://sota-mitsumori.github.io/London_Underground/',
-    },
+
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web App', description: 'Aims to create an useful and insightful Full-stack web app.', link: '' },
+    { icon: assets.web_icon, title: 'Web App', description: 'Aims to create an useful and insightful fullstack web app.', link: '' },
     { icon: assets.app_logo, title: 'Mobile app', description: 'Fully committed to designing an iOS and Android app', link: '' },
     { icon: assets.ui_icon, title: 'Large Language Model', description: 'As AI becomes the trend in the tech industry, I am ready to explore cutting-edge technology.', link: '' },
-    { icon: assets.music_icon, title: 'Musics', description: 'Immersed in music from a young age, I am driven to develop an app related to music.', link: '' },
+    { icon: assets.music_icon, title: 'Music', description: 'Immersed in music from a young age, I am driven to develop an app related to music.', link: '' },
 ]
 
 export const infoList = [
