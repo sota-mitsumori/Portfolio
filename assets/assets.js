@@ -86,10 +86,10 @@ export const workData = [
         url: 'https://penny-keep.vercel.app/',
     },
     {
-        title: 'MyJapan',
+        title: 'Karuter',
         description: 'Web App',
-        bgImage: '/MyJapan.png',
-        url: 'https://MyJapan.onrender.com',
+        bgImage: '/karuter.png',
+        url: 'https://karuter.com',
     },
     {
         title: 'Recurrence Relation Solver',
