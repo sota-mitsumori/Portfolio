@@ -15,7 +15,7 @@ const Header = () => {
         Computer Science Student from Japan
     </h1>
         <p className='max-w-2xl mx-auto font-Ovo'>
-            As a CS junior at Waseda University, I am passionate about AI, web development, and mobile app development.
+            As a CS senior at Waseda University, I am passionate about AI, web development, and mobile app development.
         </p>
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
             <a href="#contact" className='px-10 py-3 border rounded-full border-white bg-black text-white flex items-center gap-2
